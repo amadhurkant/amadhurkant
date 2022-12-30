@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amadhurkant
+- 👋 Hi, I’m Madhur Kant Sharma
 - 👀 I’m interested in Sanskrit, Coding, Physics, Nature
 - 🌱 I’m currently learning learning
 - <strong> भूतेषु भूतेषु विचित्य धीराः प्रेत्यास्माल्लोकादमृता भवन्ति </strong>
